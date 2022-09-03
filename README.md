@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Vidhi Goel
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
      vidhigoel777@gmail.com
 
